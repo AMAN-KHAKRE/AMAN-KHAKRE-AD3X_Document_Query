@@ -1,0 +1,8 @@
+Creating a Chatbot with Alkimi Custom Data
+
+
+INPUT DATA URL :-
+
+https://www.alkimi.org/tokenomics?section=alkimi-exchange
+https://www.alkimi.org/how-it-works
+https://www.alkimi.org/tokenomics?section=validators
