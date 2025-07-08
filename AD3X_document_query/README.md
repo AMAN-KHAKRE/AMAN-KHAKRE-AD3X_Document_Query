@@ -1,1 +1,0 @@
-# AMAN-KHAKRE-AD3X_Document_Query
